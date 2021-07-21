@@ -39,10 +39,10 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/hydra-logo.png"
     },
-    {
-      "chainId": 1,
+    { 
+      "chainId: 1,
       "address": "4ab26aaa1803daa638910d71075c06386e391147",
-      "name": "LockTrip,
+      "name": "LockTrip",
       "symbol": "LOC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/LockTrip_LOC_400x400.jpg"
