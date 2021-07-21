@@ -21,7 +21,7 @@
       "name": "Token B",
       "symbol": "TB",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/token_icon.jpg"
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     },
     {
       "chainId": 1,
@@ -29,7 +29,7 @@
       "name": "Token C",
       "symbol": "TC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/token_icon.jpg"
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     },
     {
       "chainId": 1,
@@ -37,7 +37,7 @@
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/hydra-logo.png"
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/hydra-logo.png"
     },
     {
       "chainId": 1,
@@ -45,7 +45,7 @@
       "name": "LockTrip,
       "symbol": "LOC",
       "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/LockTrip_LOC_400x400.jpg"
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/LockTrip_LOC_400x400.jpg"
     }
   ],
   "version": {
