@@ -33,6 +33,14 @@
     },
     {
       "chainId": 1,
+      "address": "3b5ca2f02a2e10b22efb8f3e0925a10c54f84bad",
+      "name": "Token D",
+      "symbol": "TD",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
+    },
+    {
+      "chainId": 1,
       "address": "6d9115a21863ce31b44cd231e4c4ccc87566222f",
       "name": "Wrapped Hydra",
       "symbol": "WHYDRA",
