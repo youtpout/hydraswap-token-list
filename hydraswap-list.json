@@ -54,6 +54,22 @@
       "symbol": "LOC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/LockTrip_LOC_400x400.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "2e78dd2e82b9d19ff7768a293dd507d8d7548534",
+      "name": "Token E",
+      "symbol": "TE",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "24bdcf8c25b056c29ed1a32a61c44a13b8a9db08",
+      "name": "Token F",
+      "symbol": "TF",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/token_icon.jpg"
     }
   ],
   "version": {
