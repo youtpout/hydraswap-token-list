@@ -30,6 +30,14 @@
       "symbol": "GOMT",
       "decimals": 8,
       "logoURI": "https://cdn1.telesco.pe/file/IwVG7N78PfxC2p6Lu-5IRB3rnsTw3tJScOGTQD-9crfBdZLEWF3GbTRDNnyJfeMholSKyq1ZSm0tQD4fCiuc7EDEBswdfLdSbHjfsadGQtHm0G_1f1HFqj2_1lipWLI_KLSJ6srXxMwssX7YR1V1gRFw20fDcQHJlD6o0EeL_4T4hiNdavKn5MOpKl7tEgp7UpR80KFasZPh9ItEoE2UcCTTF91hl51TKK6tC14PdXtRYjLba2pSn3csbl0lMLn4IGq-4_wi9B-AD7h2OaHSI4_nxWn6w_E7v-qyq4klUzX490nTkR6MjQxjScxqQ7259TNalhaEYiiB9uN9oqfV-A.jpg"
+    },
+    { 
+      "chainId": 1,
+      "address": "98d6202d354eed7567890b59072ead1c21d46c66",
+      "name": "Stray Token",
+      "symbol": "STRAY",
+      "decimals": 8,
+      "logoURI": ""
     }
   ],
   "version": {
