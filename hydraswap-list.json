@@ -37,7 +37,7 @@
       "name": "Stray Token",
       "symbol": "STRAY",
       "decimals": 8,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/Stray.jpg"
     }
   ],
   "version": {
