@@ -29,7 +29,7 @@
       "name": "GoMeat",
       "symbol": "GOMT",
       "decimals": 8,
-      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/blob/main/icons/GoMT%20Logo.jpg?raw=true"
+      "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/GoMT%20Logo.jpg"
     },
     { 
       "chainId": 1,
