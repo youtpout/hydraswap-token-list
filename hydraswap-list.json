@@ -17,6 +17,30 @@
     },
     { 
       "chainId": 1,
+      "address": "abc2cd00700e06922bcf30fe0ad648507113cc56",
+      "name": "HYDRA-Pegged DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "27a459ac47204f1e7fc5c48ffeafa990af244e13",
+      "name": "HYDRA-Pegged WBTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/wbtc_28.png"
+    },
+    { 
+      "chainId": 1,
+      "address": "ab9e970de9ba9ec2c64a7f7f911da44b750ecf6a",
+      "name": "HYDRA-Pegged Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/wbtc_28.png"
+    },
+    { 
+      "chainId": 1,
       "address": "4ab26aaa1803daa638910d71075c06386e391147",
       "name": "LockTrip",
       "symbol": "LOC",
