@@ -37,7 +37,7 @@
       "name": "HYDRA-Pegged Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/ethereum-icon.png"
+      "logoURI": "https://etherscan.io/images/ethereum-icon.png"
     },
     { 
       "chainId": 1,
