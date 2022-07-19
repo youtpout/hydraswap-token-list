@@ -62,11 +62,19 @@
       "symbol": "STRAY",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/weichain/hydraswap-token-list/main/icons/Stray.jpg"
+    },
+    { 
+      "chainId": 1,
+      "address": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9",
+      "name": "ChangeX",
+      "symbol": "CHANGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/martin-key/hydraswap-token-list/main/icons/changex-logo-round.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 0,
-    "patch": 1
+    "minor": 1,
+    "patch": 0
   }
 }
