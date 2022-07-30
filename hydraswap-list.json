@@ -54,6 +54,14 @@
       "symbol": "GOMT",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/Hydra-Chain/hydraswap-token-list/main/icons/Gomt.jpg"
+    }, 
+    { 
+      "chainId": 1,
+      "address": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9",
+      "name": "ChangeX",
+      "symbol": "CHANGE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/martin-key/hydraswap-token-list/main/icons/changex-logo-round.png"
     },
     { 
       "chainId": 1,
@@ -65,16 +73,16 @@
     },
     { 
       "chainId": 1,
-      "address": "bd3c617d271b3467bd9b83dda73c9288de2fb0c9",
-      "name": "ChangeX",
-      "symbol": "CHANGE",
+      "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
+      "name": "DAIHYDRA",
+      "symbol": "DAIHYDRA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/martin-key/hydraswap-token-list/main/icons/changex-logo-round.png"
+      "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   }
 }
