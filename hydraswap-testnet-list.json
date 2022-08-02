@@ -1,0 +1,33 @@
+{
+  "name": "HydraSwap",
+  "logoURI": "",
+  "keywords": [
+    "hydra",
+    "hydraswap",
+    "testnet"
+  ],
+  "timestamp": "2021-08-04T16:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 2,
+      "address": "cc74ab8d0e2366956b3cb6d8a8c7f14872c9a987",
+      "name": "Wrapped Hydra",
+      "symbol": "WHYDRA",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/t3dkich/hydraJson/main/icons/6d9115a21863ce31b44cd231e4c4ccc87566222f.png"
+    },
+    {
+      "chainId": 2,
+      "address": "d475f69b49e0af038c597c361c1dc42a8f635285",
+      "name": "TokenA",
+      "symbol": "TA",
+      "decimals": 8,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 4,
+    "minor": 2,
+    "patch": 0
+  }
+}
