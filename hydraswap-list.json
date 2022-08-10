@@ -76,13 +76,13 @@
       "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
       "name": "DAIHYDRA",
       "symbol": "DAIHYDRA",
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
-    "minor": 4,
+    "minor": 5,
     "patch": 0
   }
 }
