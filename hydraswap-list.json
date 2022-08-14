@@ -74,15 +74,31 @@
     { 
       "chainId": 1,
       "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
-      "name": "DAIHYDRA",
-      "symbol": "DAIHYDRA",
+      "name": "DAIHYDRA_LP",
+      "symbol": "DAIHYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "9260761f5c1a29938087bc689454041fd0132863",
+      "name": "ETHHYDRA_LP",
+      "symbol": "ETHHYDRA_LP",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "0a2ae30701095ee10ae461f0504f14004e27f74a",
+      "name": "WBTCHYDRA_LP",
+      "symbol": "WBTCHYDRA_LP",
       "decimals": 8,
       "logoURI": ""
     }
   ],
   "version": {
     "major": 2,
-    "minor": 5,
+    "minor": 6,
     "patch": 0
   }
 }
