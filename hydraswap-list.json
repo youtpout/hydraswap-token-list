@@ -74,7 +74,7 @@
     { 
       "chainId": 1,
       "address": "7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
-      "name": "DAI:HYDRA Liquidity Pool Tokens",
+      "name": "DAI:HYDRA Liquidity Pool",
       "symbol": "DAIHYDRA_LP",
       "decimals": 8,
       "logoURI": ""
@@ -82,7 +82,7 @@
     { 
       "chainId": 1,
       "address": "9260761f5c1a29938087bc689454041fd0132863",
-      "name": "ETH:HYDRA Liquidity Pool Tokens",
+      "name": "ETH:HYDRA Liquidity Pool",
       "symbol": "ETHHYDRA_LP",
       "decimals": 8,
       "logoURI": ""
@@ -90,7 +90,7 @@
     { 
       "chainId": 1,
       "address": "0a2ae30701095ee10ae461f0504f14004e27f74a",
-      "name": "WBTC:HYDRA Liquidity Pool Tokens",
+      "name": "WBTC:HYDRA Liquidity Pool",
       "symbol": "WBTCHYDRA_LP",
       "decimals": 8,
       "logoURI": ""
