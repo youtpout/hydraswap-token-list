@@ -94,11 +94,19 @@
       "symbol": "WBTCHYDRA_LP",
       "decimals": 8,
       "logoURI": ""
+    },
+    { 
+      "chainId": 1,
+      "address": "9cbbbc9d192fc81225a70f88877169b94d663f8b",
+      "name": "Evedo",
+      "symbol": "EVED",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/evedo_28.png"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 8,
+    "minor": 9,
     "patch": 0
   }
 }
