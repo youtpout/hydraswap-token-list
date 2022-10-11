@@ -21,7 +21,7 @@
       "name": "HYDRA-Pegged DAI",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/MCDDai_32.webp"
     },
     { 
       "chainId": 1,
@@ -29,7 +29,7 @@
       "name": "HYDRA-Pegged WBTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://etherscan.io/token/images/wbtc_28.png"
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/wbtc_28.webp"
     },
     { 
       "chainId": 1,
@@ -37,7 +37,7 @@
       "name": "HYDRA-Pegged Ethereum",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/images/ethereum-icon.png"
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/ethereum-icon.webp"
     },
     { 
       "chainId": 1,
@@ -61,7 +61,7 @@
       "name": "ChangeX",
       "symbol": "CHANGE",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/martin-key/hydraswap-token-list/main/icons/changex-logo-round.png"
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/changex-logo-round.png"
     },
     { 
       "chainId": 1,
@@ -101,12 +101,12 @@
       "name": "Evedo",
       "symbol": "EVED",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/evedo_28.png"
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/evedo_28.webp"
     }
   ],
   "version": {
     "major": 2,
     "minor": 9,
-    "patch": 0
+    "patch": 1
   }
 }
