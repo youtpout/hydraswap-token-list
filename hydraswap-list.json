@@ -1,7 +1,12 @@
 {
-  "name": "HydraSwap",
-  "timestamp": "2022-10-13T18:44:18.339Z",
-  "tokens": [
+  "name": "Hydra swap farm token",
+  "timestamp": "2022-03-01T22:44:18.339Z",
+  "version": {
+    "major": 4,
+    "minor": 2,
+    "patch": 0
+  },
+  "tokens": [  
     { 
       "chainId": 1,
       "address": "0x1706b9e19a7ad8b726ce134a2155c0d2c835988b",
@@ -9,11 +14,15 @@
       "symbol": "FT",
       "decimals": 9,
       "logoURI": "https://github.com/youtpout/hydraswap-token-list/raw/main/icons/farm-token.webp"
+    },
+    {
+      "chainId": 1,
+      "name": "sUSD",
+      "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+      "symbol": "SUSD",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2927.png"
     }
   ],
-  "version": {
-    "major": 2,
-    "minor": 9,
-    "patch": 2
-  }
+  "logoURI": "ipfs://QmTvWJ4kmzq9koK74WJQ594ov8Es1HHurHZmMmhU8VY68y"
 }
