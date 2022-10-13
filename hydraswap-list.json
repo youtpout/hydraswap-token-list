@@ -1,6 +1,5 @@
 {
   "name": "HydraSwap",
-  "logoURI": "",
   "keywords": [
     "hydra",
     "hydraswap"
@@ -76,24 +75,21 @@
       "address": "0x7c9cba56ebc25265067bbe2c111f9acd47fc2f14",
       "name": "DAI:HYDRA Liquidity Pool",
       "symbol": "DAIHYDRA_LP",
-      "decimals": 8,
-      "logoURI": ""
+      "decimals": 8
     },
     { 
       "chainId": 1,
       "address": "0x9260761f5c1a29938087bc689454041fd0132863",
       "name": "ETH:HYDRA Liquidity Pool",
       "symbol": "ETHHYDRA_LP",
-      "decimals": 8,
-      "logoURI": ""
+      "decimals": 8
     },
     { 
       "chainId": 1,
       "address": "0x0a2ae30701095ee10ae461f0504f14004e27f74a",
       "name": "WBTC:HYDRA Liquidity Pool",
       "symbol": "WBTCHYDRA_LP",
-      "decimals": 8,
-      "logoURI": ""
+      "decimals": 8
     },
     { 
       "chainId": 1,
