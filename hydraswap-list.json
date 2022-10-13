@@ -102,11 +102,19 @@
       "symbol": "EVED",
       "decimals": 18,
       "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/evedo_28.webp"
+    },   
+    { 
+      "chainId": 1,
+      "address": "1706b9e19a7ad8b726ce134a2155c0d2c835988b",
+      "name": "Farm Token",
+      "symbol": "FT",
+      "decimals": 9,
+      "logoURI": "https://github.com/Hydra-Chain/hydraswap-token-list/raw/main/icons/evedo_28.webp"
     }
   ],
   "version": {
     "major": 2,
     "minor": 9,
-    "patch": 1
+    "patch": 2
   }
 }
